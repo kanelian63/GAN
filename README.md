@@ -1,7 +1,5 @@
 # Goal of Project
-Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition.
-
-The project will be based on a lecture by Yeon-Soo Yoo, deep learning in March 2020.
+Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition. Therefore, much of the project was conducted with reference to kaggle. The project will be based on a lecture by Yeon-Soo Yoo, deep learning in March 2020.
 
 The project proposal is as follows.
 
