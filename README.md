@@ -1,5 +1,9 @@
-# GAN
-Introduce of GAN
+# Goal of Project
+Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition.
+
+The project will be based on a lecture by Yeon-Soo Yoo, deep learning in March 2020.
+
+The project proposal is as follows.
 
 # Proposal
 찐개만(진짜 개 같이 만들자, 가제) 파티원 모집!!
