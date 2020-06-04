@@ -112,10 +112,10 @@ utils - Preprocess of data
 Generative Dogs Images PPT.pdf - resentation / If you want a presentation PPT file, please email me.
 
 # Results
-Conditional Progan - 
+Conditional Progan
 
 ![progan output1](https://user-images.githubusercontent.com/59387983/83746225-c3003800-a699-11ea-8fcd-394b2a6cc9c2.jpg)
 
-Big Gan -
+Big Gan
 
 ![biggan output1](https://user-images.githubusercontent.com/59387983/83746217-c1cf0b00-a699-11ea-911b-e790e2852abd.jpg)
