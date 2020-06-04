@@ -1,8 +1,12 @@
 # Goal of Project
-Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition. Therefore, much of the project was conducted with reference to kaggle. The project will be based on a lecture by Yeon-Soo Yoo, deep learning in March 2020.
+Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition.
 
+
+# Detail
+Much of the project was conducted with reference to kaggle. The project will be based on a lecture by Yeon-Soo Yoo, deep learning in February 2020. I read papers on various models of GAN, modified the model, and printed the results.
 
 The project proposal is as follows.
+
 
 # Proposal
 찐개만(진짜 개 같이 만들자, 가제) 파티원 모집!!
@@ -118,3 +122,11 @@ epochs = 10
 ![37](https://user-images.githubusercontent.com/59387983/83408842-42013080-a44e-11ea-8011-16adfe7da39a.png)
 ![38](https://user-images.githubusercontent.com/59387983/83408843-4299c700-a44e-11ea-9dd8-6c4dc032bffe.png)
 ![39](https://user-images.githubusercontent.com/59387983/83408844-4299c700-a44e-11ea-895f-e9af3d94a4b1.png)
+
+
+# Files
+model - Big Gan, Conditional Progan, DC GAN
+outputs	- Outputs of Models
+papers - Referenced papers.
+utils - Preprocess of data
+Generative Dogs Images PPT.pdf - resentation
