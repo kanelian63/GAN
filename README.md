@@ -1,7 +1,7 @@
 # Goal of Project
 Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition. https://www.kaggle.com/c/generative-dog-images
 
-# Detail
+# Details
 Much of the project was conducted with reference to kaggle. The project will be based on a lecture by Yeon-Soo Yoo, deep learning in February 2020. I read papers on various models of GAN, modified the model, and printed the results.
 
 The project proposal is as follows.
