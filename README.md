@@ -1,5 +1,6 @@
 # Goal of Project
 Learn about GAN, the most innovative AI learning method of the past decade, and use it by participating in the kaggle competition.
+
 https://www.kaggle.com/c/generative-dog-images
 
 # Detail
@@ -92,8 +93,7 @@ learning_rate = 0.0002
 beta1 = 0.5
 
 epochs = 10
-![32](https://user-images.githubusercontent.com/59387983/83408834-40376d00-a44e-11ea-9351-9bd3feed58b4.png)
-![33](https://user-images.githubusercontent.com/59387983/83408835-40d00380-a44e-11ea-956b-f0186292e403.png)
+
 ![34](https://user-images.githubusercontent.com/59387983/83408837-40d00380-a44e-11ea-9dde-c72295ce5dc9.png)
 ![35](https://user-images.githubusercontent.com/59387983/83408839-41689a00-a44e-11ea-8085-7cf0f58baf97.png)
 ![36](https://user-images.githubusercontent.com/59387983/83408840-41689a00-a44e-11ea-815f-d619e37a164c.png)
