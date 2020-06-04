@@ -126,7 +126,11 @@ epochs = 10
 
 # Files
 model - Big Gan, Conditional Progan, DC GAN
+
 outputs	- Outputs of Models
-papers - Referenced papers.
+
+papers - Referenced papers
+
 utils - Preprocess of data
+
 Generative Dogs Images PPT.pdf - resentation / If you want a presentation PPT file, please email me.
