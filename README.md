@@ -33,6 +33,12 @@ epochs = 10
 ![38](https://user-images.githubusercontent.com/59387983/83408843-4299c700-a44e-11ea-9dd8-6c4dc032bffe.png)
 ![39](https://user-images.githubusercontent.com/59387983/83408844-4299c700-a44e-11ea-895f-e9af3d94a4b1.png)
 
+# Data Preprocessing
+[asd.pdf](https://github.com/kanelian63/GAN/files/4743779/asd.pdf)
+
+# DC GAN
+![dcgan(64x64) result](https://user-images.githubusercontent.com/59387983/83991466-c5a7a980-a987-11ea-9faf-ee1499d3ea60.jpg)
+
 # Loss
 ![그림1](https://user-images.githubusercontent.com/59387983/83991144-dc99cc00-a986-11ea-8103-377b3a8aa5bf.png)
 
@@ -40,6 +46,15 @@ Generator의 초기 Loss가 큰 이유는 학습을 빠르게 하기 위해서 �
 
 기존 GAN에 학습의 안정성에 도움이 되는 기법을 사용하였지만, 개의 모습은 사람의 얼굴보다 더 복잡하고, 다양한 분포를 가졌으므로 학습하기 더 어려웠다. 생성자와 판별자 사이의 능력에 적절한 균형을 이루면서, 두 네트워크가 안정적으로 전역해로 수렴하도록 만드는 것이 GAN이 해결해야 할 숙제인데, 나의 모델에 적용할 수 있는 방법을 사용했음에도 결과가 좋지 않았다.
 
+
+# Conditional Progan
+![progan output1](https://user-images.githubusercontent.com/59387983/83746225-c3003800-a699-11ea-8fcd-394b2a6cc9c2.jpg)
+
+![biggan output1](https://user-images.githubusercontent.com/59387983/83746217-c1cf0b00-a699-11ea-911b-e790e2852abd.jpg)
+
+# Results
+
+![그림2](https://user-images.githubusercontent.com/59387983/83991146-dd326280-a986-11ea-953e-ae644f000136.png)
 
 
 # Files
@@ -52,17 +67,5 @@ papers - Referenced papers
 utils - Preprocess of data
 
 Generative Dogs Images PPT.pdf - resentation / If you want a presentation PPT file, please email me.
-
-# Results
-Conditional Progan
-
-![progan output1](https://user-images.githubusercontent.com/59387983/83746225-c3003800-a699-11ea-8fcd-394b2a6cc9c2.jpg)
-
-![그림2](https://user-images.githubusercontent.com/59387983/83991146-dd326280-a986-11ea-953e-ae644f000136.png)
-
-
-Big Gan
-
-![biggan output1](https://user-images.githubusercontent.com/59387983/83746217-c1cf0b00-a699-11ea-911b-e790e2852abd.jpg)
-
+                               - About DC GAN, LS GAN, C GAN, SA GAN
 
