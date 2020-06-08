@@ -50,9 +50,11 @@ Conditional Progan
 
 ![progan output1](https://user-images.githubusercontent.com/59387983/83746225-c3003800-a699-11ea-8fcd-394b2a6cc9c2.jpg)
 
-![그림2](https://user-images.githubusercontent.com/59387983/83991022-744aea80-a986-11ea-97c5-975d639c3382.png)
+![그림2](https://user-images.githubusercontent.com/59387983/83991146-dd326280-a986-11ea-953e-ae644f000136.png)
+
+
 Big Gan
 
 ![biggan output1](https://user-images.githubusercontent.com/59387983/83746217-c1cf0b00-a699-11ea-911b-e790e2852abd.jpg)
 
-![그림1](https://user-images.githubusercontent.com/59387983/83991024-757c1780-a986-11ea-92dc-0a921f1edb12.png)
+![그림1](https://user-images.githubusercontent.com/59387983/83991144-dc99cc00-a986-11ea-8103-377b3a8aa5bf.png)
