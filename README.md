@@ -14,17 +14,9 @@ The project proposal is as follows.
 
 - 학습을 빠르게 하기 위해서 input 픽셀수, batch_size, 신경망의 Layer 수를 줄여서 결과물이 좋지 않음.
 
-- Parameter
+- Parameters
 
-batch_size = 16
-
-z_dim = 100
-
-learning_rate = 0.0002
-
-beta1 = 0.5
-
-epochs = 10
+batch_size = 16, z_dim = 100, learning_rate = 0.0002, beta1 = 0.5, epochs = 10
 
 ![34](https://user-images.githubusercontent.com/59387983/83408837-40d00380-a44e-11ea-9dde-c72295ce5dc9.png)
 ![35](https://user-images.githubusercontent.com/59387983/83408839-41689a00-a44e-11ea-8085-7cf0f58baf97.png)
@@ -34,7 +26,8 @@ epochs = 10
 ![39](https://user-images.githubusercontent.com/59387983/83408844-4299c700-a44e-11ea-895f-e9af3d94a4b1.png)
 
 # Data Preprocessing
-[asd.pdf](https://github.com/kanelian63/GAN/files/4743779/asd.pdf)
+![캡처](https://user-images.githubusercontent.com/59387983/83991664-6f873600-a988-11ea-889e-6bb2ab40cb8b.PNG)
+
 
 # DC GAN
 ![dcgan(64x64) result](https://user-images.githubusercontent.com/59387983/83991466-c5a7a980-a987-11ea-9faf-ee1499d3ea60.jpg)
