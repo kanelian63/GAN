@@ -7,16 +7,15 @@ Much of the project was conducted with reference to kaggle. The project will be 
 The project proposal is as follows.
 
 
-# 가벼운 Dcgan 모델을 활용하여, Celeb의 사진 20만장을 학습하고, 이미지를 생성
+# 예제
 
+- 유명한 Celeb-A 데이터를 활용하여 인물사진 20만장을 학습하고, 이미지를 생성
 
 - 학습을 통해서 점점 사람다운 형상을 출력하기 시작함을 확인할 수 있었음.
 
 - 학습을 빠르게 하기 위해서 input 픽셀수, batch_size, 신경망의 Layer 수를 줄여서 결과물이 좋지 않음.
 
-- Parameters
-
-batch_size = 16, z_dim = 100, learning_rate = 0.0002, beta1 = 0.5, epochs = 10
+- Parameters(batch_size = 16, z_dim = 100, learning_rate = 0.0002, beta1 = 0.5, epochs = 10)
 
 ![34](https://user-images.githubusercontent.com/59387983/83408837-40d00380-a44e-11ea-9dde-c72295ce5dc9.png)
 ![35](https://user-images.githubusercontent.com/59387983/83408839-41689a00-a44e-11ea-8085-7cf0f58baf97.png)
@@ -25,7 +24,23 @@ batch_size = 16, z_dim = 100, learning_rate = 0.0002, beta1 = 0.5, epochs = 10
 ![38](https://user-images.githubusercontent.com/59387983/83408843-4299c700-a44e-11ea-9dd8-6c4dc032bffe.png)
 ![39](https://user-images.githubusercontent.com/59387983/83408844-4299c700-a44e-11ea-895f-e9af3d94a4b1.png)
 
-# Data Preprocessing
+# Generative Dogs Images
+![asdf](https://user-images.githubusercontent.com/59387983/83992019-bf1a3180-a989-11ea-8a11-93bd8d299552.png)
+
+# Data & Preprocessing
+
+![asdsss](https://user-images.githubusercontent.com/59387983/83992049-e244e100-a989-11ea-99fc-77d63e922e65.png)
+
+Stanford Dogs Dataset
+
+Number of categories : 120
+
+Number of images : 20,580
+
+Annotations : Class labels, Bounding boxes
+
+
+
 ![캡처](https://user-images.githubusercontent.com/59387983/83991664-6f873600-a988-11ea-889e-6bb2ab40cb8b.PNG)
 
 
