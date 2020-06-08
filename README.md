@@ -45,10 +45,10 @@ Generator의 초기 Loss가 큰 이유는 학습을 빠르게 하기 위해서 �
 
 ![biggan output1](https://user-images.githubusercontent.com/59387983/83746217-c1cf0b00-a699-11ea-911b-e790e2852abd.jpg)
 
-# Results
-
+# Loss
 ![그림2](https://user-images.githubusercontent.com/59387983/83991146-dd326280-a986-11ea-953e-ae644f000136.png)
 
+High resolution image를 생성하는 경우에는 training image와 generated image를 구분하기가 더 쉬워지는 경향이 있어서 학습이 불안정해진다. Pro GAN의 핵심 아이디어는 generator와 discriminator를 점진적으로 키운다는 것이다. 저해상도에서 시작해서 세밀한 점들을 배울 수 있도록 새로운 레이어들을 추가하는 방식이다. 이런 방식을 취함으로 인해 기존 GANs을 보다 안정적이면서 빠르게 학습하는 것이 가능해졌다. 이 방식의 사용함으로써 학습에 불리한 점은 깊은 층의 문제점, 오차의 전파가 약해지고, 학습이 느려진다. 이를 보완하기 하고, 점진적으로 네트워크 레이어를 추가할 때 sudden shock이 일어나지 않도록 새로 추가하는 레이어를 부드럽게 (fade in) 넣어준다. 이를 레지듀얼 블록, Highway Network이라 한다. 이는 모델을 깊게 만들면서도 정보의 흐름을 통제하고 학습 가능성을 극대화할 수 있도록 해준다. ResNet에서 사용하는 아이디어를 차용해 온듯하다.
 
 # Files
 model - Big Gan, Conditional Progan, DC GAN
